@@ -1,4 +1,4 @@
-## **README.md - Abelhas sem Ferrão do Brasil**
+## **README.md - Abelhas sem Ferrão do Brasil -  imersao Dev com Google Gemini**
 
 ###  Sobre a Aplicação
 
