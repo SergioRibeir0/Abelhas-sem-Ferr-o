@@ -1,5 +1,7 @@
 ## **Abelhas sem Ferrão do Brasil -  imersao Dev com Google Gemini**
 
+🔗 **Demonstração:** https://sergioribeir0.github.io/Abelhas-sem-Ferr-o/
+
 ###  Sobre a Aplicação
 
 Essa aplicação web simples tem como objetivo fornecer informações sobre diferentes espécies de abelhas sem ferrão encontradas no Brasil. O usuário pode pesquisar por nome da abelha e obter informações como descrição, habitat e links para mais detalhes.

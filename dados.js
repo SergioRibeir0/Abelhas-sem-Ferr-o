@@ -22,7 +22,7 @@ let dados = [
     imagem: "https://ecoa.org.br/wp-content/uploads/2022/04/abelha_jatai_1_fixed_large.jpg",
   },
   {
-    nome: "Uruçu Nordestina (Melipona scutellaris",
+    nome: "Uruçu Nordestina (Melipona scutellaris)",
     descricao: "A Uruçu Nordestina, cientificamente conhecida como Melipona scutellaris, é uma das abelhas sem ferrão mais famosas e valorizadas do Brasil. Conhecida por sua produção de mel de alta qualidade e sabor único, a Uruçu Nordestina é um símbolo da biodiversidade do Nordeste.",
     ocorrencia: "Nordeste do Brasil",
     Tamanho: "De porte grande, sendo uma das maiores abelhas sem ferrão do Brasil, com cerca de 10 a 12 mm de comprimento.",
@@ -40,11 +40,11 @@ let dados = [
     Ninhos: "Constroem seus ninhos em cavidades de árvores, cupinzeiros ou em caixas racionais.",
     Produção: "Produzem mel de sabor forte e levemente ácido, com notas florais e frutadas. Além do mel, produzem própolis e geleia real.",
     tags: "Brasil Médio Escuro Amarelo Rústica Meliponini Adaptabilidade",
-    link: "https://exemplo.com/tiuba",
+    link: "https://pt.wikipedia.org/wiki/Melipona_compressipes",
     imagem: "https://exemplo.com/imagem_tiuba.jpg",
   },
   {
-    nome: "jandaira (Melipona subnitida)",
+    nome: "Jandaíra (Melipona subnitida)",
     descricao: "A Jandaíra, cientificamente conhecida como Melipona subnitida, é uma espécie de abelha sem ferrão endêmica do Nordeste brasileiro. Conhecida por sua produção de mel de alta qualidade e sabor único, a Jandaíra é um símbolo da biodiversidade da região.",
     ocorrencia: "Nordeste do Brasil",
     Tamanho: "De porte médio, com cerca de 6 a 7 mm de comprimento.",
@@ -56,8 +56,8 @@ let dados = [
     imagem: "https://abelhas.org:9443/MediaUploader/03c65401681d40afb04688c688e19d56.jpeg",
   },
   {
-    nome: "Iraí (Scaptotrigona postica)",
-    descricao: "A Iraí, cientificamente conhecida como Exodonta masaru, é uma espécie de abelha sem ferrão endêmica da Mata Atlântica, especialmente encontrada em regiões de altitude. Conhecida por sua produção de mel de alta qualidade e sabor único, a Iraí é uma espécie muito valorizada pelos meliponicultores.",
+    nome: "Iraí (Nannotrigona testaceicornis)",
+    descricao: "A Iraí, cientificamente conhecida como Nannotrigona testaceicornis, é uma espécie de abelha sem ferrão endêmica da Mata Atlântica, especialmente encontrada em regiões de altitude. Conhecida por sua produção de mel de alta qualidade e sabor único, a Iraí é uma espécie muito valorizada pelos meliponicultores.",
     ocorrencia: "Ampla distribuição no Brasil",
     Tamanho: "De porte médio, com cerca de 6 a 7 mm de comprimento.",
     Coloração: "Predominantemente negra, com algumas variações de tonalidade e pelos amarelados.",
@@ -80,7 +80,7 @@ let dados = [
     imagem: "https://www.sedest.pr.gov.br/sites/default/arquivos_restritos/files/imagem/2022-03/mandacaia_1.jpg",
   },
   {
-    nome: "Guaraipo (Melipona bicolor schencki )",
+    nome: "Guaraipo (Melipona bicolor schencki)",
     descricao: "A Guaraipo, cientificamente conhecida como Melipona bicolor schencki, é uma espécie de abelha sem ferrão bastante apreciada pelos meliponicultores. Conhecida por sua docilidade e produção de mel de alta qualidade, a Guaraipo é uma das espécies mais populares para a criação em meliponários.",
     ocorrencia: "Região Sul",
     Tamanho: "De porte médio, com cerca de 6 a 7 mm de comprimento.",
@@ -120,7 +120,7 @@ let dados = [
     descricao:
       "A abelha canudo, cientificamente conhecida como Scaptotrigona depilis, é uma espécie de abelha social sem ferrão bastante comum em diversas regiões do Brasil. Seu nome popular se deve ao fato de construir ninhos com entrada em forma de canudo, uma característica marcante dessa espécie.",
     ocorrencia: "Região Sul",
-    tamnaho: "Pequena, com cerca de 4 a 5 mm de comprimento.",
+    Tamanho: "Pequena, com cerca de 4 a 5 mm de comprimento.",
     Coloração: "Predominantemente preta, com algumas variações de tonalidade.",
     Ninhos: "Constroem seus ninhos em cavidades de árvores, paredes ou outros locais protegidos. A entrada do ninho, em forma de canudo, é construída com cerume (mistura de cera e própolis).",
     Produção: "São excelentes produtoras de mel, que é considerado de alta qualidade e possui propriedades medicinais. Além do mel, também produzem própolis e geleia real.",

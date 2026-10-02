@@ -6,7 +6,7 @@ function pesquisar() {
 
   // Se campoPesquisa for uma string sem nada 
   if (!campoPesquisa) {
-    section.innerHTML = "<p>Nada foi encontrado. Você deve digitar o nome da abelha.</P>"
+    section.innerHTML = "<p>Nada foi encontrado. Você deve digitar o nome da abelha.</p>"
     return
   }
 
@@ -29,25 +29,27 @@ function pesquisar() {
     descricao = dado.descricao.toLowerCase()
     ocorrencia = dado.ocorrencia.toLowerCase()
     tags = dado.tags.toLowerCase()
+    tamanho = (dado.Tamanho || "").toLowerCase()
+    coloração = (dado.Coloração || "").toLowerCase()
+    ninhos = (dado.Ninhos || "").toLowerCase()
+    produção = (dado.Produção || "").toLowerCase()
     // Se titulo includes campoPesquisa
     if (nome.includes(campoPesquisa) ||  descricao.includes(campoPesquisa) || ocorrencia.includes(campoPesquisa) || tamanho.includes(campoPesquisa) || coloração.includes(campoPesquisa) || ninhos.includes(campoPesquisa) || produção.includes(campoPesquisa) || tags.includes(campoPesquisa)) {
       // Cria um novo elemento HTML para cada resultado
       resultados += `
       <div class="item-resultado">
-        <h2><a href="#" target="_blank">${dado.nome}</a></h2>
+        <h2><a href="${dado.link}" target="_blank">${dado.nome}</a></h2>
         <p class="descricao-meta">${dado.descricao}</p>
-        <a href=${dado.link} target="_blank">Mais informações</a>
+        <a href="${dado.link}" target="_blank">Mais informações</a>
       </div>
     `;
     }
-    // então, faça...
-    console.log(dado.nome.includes("campoPesquisa"));
   }
 
   if (!resultados) {
-    resultados = "<p>Nada foi encontrdo</p>"
+    resultados = "<p>Nada foi encontrado</p>"
   }
 
-  // Atribui os resultados gerados à seção HTMl
+  // Atribui os resultados gerados à seção HTML
   section.innerHTML = resultados;
 }
