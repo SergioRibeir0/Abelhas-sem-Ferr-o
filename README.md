@@ -45,13 +45,3 @@ Contribuições são bem-vindas! Se você quiser ajudar a melhorar este projeto,
 
 **Vamos juntos preservar a biodiversidade e divulgar a importância das abelhas sem ferrão!**
 
-**Observações:**
-
-* **Personalize:** Adapte este README para o seu projeto, adicionando mais detalhes sobre as funcionalidades, tecnologias utilizadas e como contribuir.
-* **Imagens:** Inclua imagens ou capturas de tela para ilustrar a aplicação.
-* **Licença:** Adicione uma seção sobre a licença do projeto (por exemplo, MIT).
-* **Agradecimentos:** Agradeça a qualquer pessoa que tenha contribuído para o projeto.
-
-**Com este README, você terá um guia completo para o seu projeto e facilitará a colaboração com outros desenvolvedores.**
-
-**Gostaria de adicionar mais alguma coisa ao README?** 
